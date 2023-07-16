@@ -16,7 +16,7 @@ object ProjectSetting {
     // ---------------------------------------------------------------------------------------------
 
     // Declaration app name
-    const val NAME_APP = "Github Action Automated"
+    const val NAME_APP = "ANDROID-AUTO-HANAKAWAII-KEYSTORE"
 
     const val APP_DOMAIN = "com"
     const val APP_PLAY_CONSOLE = "frogobox"
@@ -30,10 +30,10 @@ object ProjectSetting {
     const val PROJECT_COMPILE_SDK = 33
 
     // Setup Publish Setting
-    const val KEY_PATH = "KeysotreNEXEAT.jks"
-    const val KEY_STORE_PASSWORD = "12345678"
-    const val KEY_ALIAS = "nexeat"
-    const val KEY_ALIAS_PASSWORD = "12345678"
+    const val KEY_PATH = "Keystore Ghessa.jks"
+    const val KEY_STORE_PASSWORD = "01031996"
+    const val KEY_ALIAS = "hanakawaiignk"
+    const val KEY_ALIAS_PASSWORD = "01031996"
 
     // ---------------------------------------------------------------------------------------------
 
