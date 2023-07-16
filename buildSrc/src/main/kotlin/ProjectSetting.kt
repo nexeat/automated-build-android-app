@@ -30,10 +30,10 @@ object ProjectSetting {
     const val PROJECT_COMPILE_SDK = 33
 
     // Setup Publish Setting
-    const val KEY_PATH = "frogoboxdev.jks"
-    const val KEY_STORE_PASSWORD = "cronoclez"
-    const val KEY_ALIAS = "frogobox"
-    const val KEY_ALIAS_PASSWORD = "xeonranger"
+    const val KEY_PATH = "KeysotreNEXEAT.jks"
+    const val KEY_STORE_PASSWORD = "12345678"
+    const val KEY_ALIAS = "nexeat"
+    const val KEY_ALIAS_PASSWORD = "12345678"
 
     // ---------------------------------------------------------------------------------------------
 
