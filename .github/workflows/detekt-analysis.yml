@@ -70,6 +70,6 @@ jobs:
         with:
           sarif_file: ${{ github.workspace }}/detekt.sarif.json
           checkout_path: ${{ github.workspace }}
-          token: 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
+          token: ${{ secrets.GITHUB_TOKEN }}
           matrix: null
           wait-for-processing: true
