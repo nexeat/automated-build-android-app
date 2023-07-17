@@ -19,8 +19,8 @@ object ProjectSetting {
     const val NAME_APP = "ANDROID-AUTO-HANAKAWAII-KEYSTORE"
 
     const val APP_DOMAIN = "com"
-    const val APP_PLAY_CONSOLE = "frogobox"
-    const val APP_NAME = "githubaction"
+    const val APP_PLAY_CONSOLE = "hanakwaii"
+    const val APP_NAME = "wallpaper"
 
     const val VERSION_MAJOR = 2
     const val VERSION_MINOR = 2
