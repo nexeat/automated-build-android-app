@@ -1,4 +1,4 @@
-name: Android CI
+name: GASS Android CI
 
 env:
   # The name of the main module repository
