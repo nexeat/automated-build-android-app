@@ -42,7 +42,7 @@ object ProjectSetting {
     const val PROJECT_TARGET_SDK = PROJECT_COMPILE_SDK
 
     const val PROJECT_APP_ID = "$APP_DOMAIN.$APP_PLAY_CONSOLE.$APP_NAME"
-    const val PROJECT_NAME_SPACE = "com.hanakwaii.wallpaper"
+    const val PROJECT_NAME_SPACE = "com.frogobox.githubaction"
     const val PROJECT_VERSION_CODE = (VERSION_MAJOR * 100) + (VERSION_MINOR * 10) + (VERSION_PATCH * 1)
     const val PROJECT_VERSION_NAME = "$VERSION_MAJOR.$VERSION_MINOR.$VERSION_PATCH"
 
